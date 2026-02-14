@@ -25,18 +25,7 @@ Here you'll find **interactive dashboards, data stories, and actionable insights
 
 ---
 
-## 💻 Tools & Technologies
-
-<p align="center">
-
-<!-- Power BI & Analytics -->
-<img src="https://skillicons.dev/icons?i=powerbi,excel" />
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sql" />
-
-<!-- Data Modeling & Scripting -->
-<img src="https://skillicons.dev/icons?i=dax,python,jupyter" />
-
-</p>
+## 💻 Components:
 
 - **Power BI Desktop** – Dashboards & reports  
 - **Excel / CSV** – Data preparation  
